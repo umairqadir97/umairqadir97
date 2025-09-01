@@ -22,9 +22,9 @@ I wear many hats: **Head of AI**, **Senior AI Engineer (Agentic AI, AI/ML)**, an
 ## What I’m Looking For
 - 🏢 **Work**: Head of AI or Senior AI Engineer roles (remote, mostly working in PST timezone, flexible remote work hours)
 - 🎓 **Mentorship**: Guiding AI engineers and developers
-- ✍️ **Ghost SaaS Products**: I can help you build SaaS products on your name 
-- 💼 **Freelance Projects**: Custom AI and web solutions
-- 🤝 **Collaborations**: Building cutting-edge AI products
+- ✍️ **Ghost SaaS Products**: I can help you build SaaS products in your name.
+- 💼 **Freelance Projects Consultaiton**: Custom AI and web solutions
+- 🤝 **Collaborations**: Building cutting-edge AI products with large startup teams.
 
 
 📅 [Schedule a chat](https://calendly.com/umairqadir) or DM me on LinkedIn!
@@ -100,7 +100,7 @@ I wear many hats: **Head of AI**, **Senior AI Engineer (Agentic AI, AI/ML)**, an
 I’m excited to collaborate on your AI/ML or full-stack projects, as much as you do. So, let's connect!  
 - 📧 [Email me](mailto:muhammad.q@turing.com)  
 - 💼 [View Recommendations](https://www.linkedin.com/in/umairqadir/recommendations)  
-- 🌐 [Visit my Blog](https://umairqadir.com)  
+- 🌐 [Visit Vetted Profile for Short Projects](https://www.toptal.com/resume/muhammad-umair-qadir)  
 
 ⭐ **Star my repos** or fork them to explore my work. Contributions are welcome!
 
