@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Umair Qadir
 
-### AI/ML Leader & Senior Engineer | Remote (Available UAE Hours, GMT+4) | umairqadir97
+### AI/ML Leader & Senior Engineer | Remote (Available EST Hours, 8am-3pm) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umairqadir)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.q@turing.com)
